@@ -1,0 +1,242 @@
+[
+   {
+      "ProductName": "LENOVO",
+      "ProductLink": "https://www.trendyol.com/lenovo/ideapad-3-intel-core-i3-1115g4-8gb-512gb-ssd-dos-15-6-fhd-laptop-lenovo-tr-garantili-82h802xdtx-p-409537504",
+      "ProductInfos": [
+         {
+            "ProductDesc": "IdeaPad 3 Intel Core i3-1115G4 8GB 512GB SSD DOS 15.6'' FHD Laptop (Lenovo TR Garantili) 82H802XDTX",
+            "ProductPrice": "7.999 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Casper",
+      "ProductLink": "https://www.trendyol.com/casper/excalibur-g770-1245-dfl0x-b-intel-12-nesil-i5-12450h-32gb-ram-1tb-ssd-4gb-rtx3050ti-freedos-p-311975861",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Excalibur G770.1245-dfl0x-b Intel 12.nesil I5-12450h 32gb Ram 1tb Ssd 4gb Rtx3050tı Freedos",
+            "ProductPrice": "19.499 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "LENOVO",
+      "ProductLink": "https://www.trendyol.com/lenovo/ideapad1-celeron-n4120-4gb-ram-128gb-emmc-15-6-win-11-p-382953334",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Ideapad1/Celeron N4120/4GB Ram/128GB emmc /15.6\"/Win 11",
+            "ProductPrice": "5.479 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Casper",
+      "ProductLink": "https://www.trendyol.com/casper/nirvana-c500-1135-bv00x-g-f-intel-core-i5-1135g7-16gb-ram-500-nvme-ssd-freedos-p-349212808",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Nirvana C500.1135-bv00x-g-f Intel Core I5-1135g7 16gb Ram 500 Nvme Ssd Freedos",
+            "ProductPrice": "9.647 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "LENOVO",
+      "ProductLink": "https://www.trendyol.com/lenovo/ideapad-intel-celeron-n4020-4gb-128gb-ssd-14-hd-dos-dizustu-bilgisayar-81vu006stx-p-367015572",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Ideapad Intel Celeron N4020 4GB 128GB SSD 14\" HD DOS Dizüstü Bilgisayar 81VU006STX",
+            "ProductPrice": "5.459 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "HP",
+      "ProductLink": "https://www.trendyol.com/hp/240-g9-6q8l8es-i5-1235u-8gb-256ssd-14-fullhd-freedos-tasinabilir-bilgisayar-p-356884052",
+      "ProductInfos": [
+         {
+            "ProductDesc": "240 G9 6q8l8es I5-1235u 8gb 256ssd 14\" Fullhd Freedos Taşınabilir Bilgisayar",
+            "ProductPrice": "11.111 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Game Garaj",
+      "ProductLink": "https://www.trendyol.com/game-garaj/slayer-5xl-3050ti-c5-i5-11400h-16gb-500gb-4gb-rtx3050ti-17-3-free-dos-p-151050725",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Slayer 5xl-3050ti C5 I5-11400h 16gb 500gb 4gb Rtx3050ti 17.3\" Free Dos",
+            "ProductPrice": "19.749 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Monster",
+      "ProductLink": "https://www.trendyol.com/monster/abra-a5-v16-7-3-intel-core-i5-11400h-16gb-ram-500gb-ssd-4gb-gtx1650-freedos-15-6-fhd-144hz-p-133966690",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Abra A5 V16.7.3 Intel Core I5-11400h 16gb Ram 500gb Ssd 4gb Gtx1650 Freedos 15.6\" Fhd 144hz",
+            "ProductPrice": "16.599 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Monster",
+      "ProductLink": "https://www.trendyol.com/monster/abra-a7-v14-3-6-intel-core-i7-12700h-16-gb-ram-1tb-ssd-4gb-rtx3050ti-freedos-17-3-fhd-144hz-p-343039097",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Abra A7 V14.3.6 Intel Core I7-12700h 16 Gb Ram 1tb Ssd 4gb Rtx3050ti Freedos 17,3\" Fhd 144hz",
+            "ProductPrice": "24.449 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Huawei",
+      "ProductLink": "https://www.trendyol.com/huawei/matebook-d15-amd-ryzen-5-5500u-8gb-512gb-ssd-15-6-w11-dizustu-bilgisayar-huawei-turkiye-garantili-p-235294620",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Matebook D15 AMD Ryzen 5-5500U 8GB 512GB SSD 15.6\" W11 Dizüstü Bilgisayar (Huawei Türkiye Garantili)",
+            "ProductPrice": "11.999 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Game Garaj",
+      "ProductLink": "https://www.trendyol.com/game-garaj/slayer2-d5-10xl-3070ti-c2-i7-12700h-32gb-1tb-ssd-rtx-3070ti-17-3-free-dos-p-383615487",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Slayer2 D5 10xl-3070ti C2 I7-12700h 32gb 1tb Ssd Rtx 3070tı 17.3\" Free Dos",
+            "ProductPrice": "42.509,62 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Monster",
+      "ProductLink": "https://www.trendyol.com/monster/abra-a5-v17-2-intel-core-i5-11400h-8gb-ram-500gb-ssd-4gb-rtx3050ti-freedos-15-6-fhd-144hz-p-117755893",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Abra A5 V17.2 Intel Core I5-11400h 8gb Ram 500gb Ssd 4gb Rtx3050ti Freedos 15.6'' Fhd 144hz",
+            "ProductPrice": "17.249 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Hometech",
+      "ProductLink": "https://www.trendyol.com/hometech/alfa-470c-rose-gold-intel-celeron-n4020-4-gb-128-gb-ssd-14-1-hd-windows-10-home-dizustu-bilgisayar-p-260090651",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Alfa 470c Rose Gold Intel Celeron N4020 4 Gb 128 Gb Ssd 14.1 Hd Windows 10 Home Dizüstü Bilgisayar",
+            "ProductPrice": "3.999 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Apple",
+      "ProductLink": "https://www.trendyol.com/apple/macbook-air-13-m1-8gb-256gb-ssd-altin-p-67940132",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Macbook Air 13'' M1 8gb 256gb Ssd Altın",
+            "ProductPrice": "19.598,99 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Monster",
+      "ProductLink": "https://www.trendyol.com/monster/huma-h4-v5-1-4-intel-core-i5-1235u-8gb-ram-512gb-ssd-freedos-14-1-fhd-rose-gold-p-456347007",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Huma H4 V5.1.4 Intel Core I5-1235u 8gb Ram 512gb Ssd Freedos 14,1\" Fhd Rose Gold",
+            "ProductPrice": "12.519 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Game Garaj",
+      "ProductLink": "https://www.trendyol.com/game-garaj/slayer2-d5-7xl-3060-c2-i7-12700h-32gb-1tb-ssd-rtx3060-6gb-17-3-ips-144hz-free-dos-p-383658856",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Slayer2 D5 7xl-3060 C2 I7-12700h 32gb 1tb Ssd Rtx3060 6gb 17.3\" Ips 144hz Free Dos",
+            "ProductPrice": "31.621,60 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Monster",
+      "ProductLink": "https://www.trendyol.com/monster/abra-a5-v19-4-5-intel-core-i5-12500h-16gb-ram-500gb-ssd-4gb-rtx-3050-freedos-15-6-fhd-144-hz-p-349398275",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Abra A5 V19.4.5 Intel Core I5-12500h 16gb Ram 500gb Ssd 4gb Rtx 3050 Freedos 15,6\" Fhd 144 Hz",
+            "ProductPrice": "19.399 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Monster",
+      "ProductLink": "https://www.trendyol.com/monster/abra-a7-v12-5-5-intel-core-i5-11400h-8gb-ram-500gb-ssd-4gb-gtx1650-windows-11-17-3-fhd-144hz-p-237687119",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Abra A7 V12.5.5 Intel Core I5-11400h 8gb Ram 500gb Ssd 4gb Gtx1650 Windows 11 17.3'' Fhd 144hz",
+            "ProductPrice": "17.299 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "ASUS",
+      "ProductLink": "https://www.trendyol.com/asus/x515ea-bq1190-intel-core-i5-1135g7-8gb-512gb-ssd-dos-15-6-fhd-laptop-asus-turkiye-garantili-p-458249190",
+      "ProductInfos": [
+         {
+            "ProductDesc": "X515EA-BQ1190 Intel Core i5-1135G7 8GB 512GB SSD DOS 15.6'' FHD Laptop (ASUS Türkiye Garantili)",
+            "ProductPrice": "10.999 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "HP",
+      "ProductLink": "https://www.trendyol.com/hp/victus-54s82ea-16-e0061nt-ryzen-7-5800h-16gb-512gb-ssd-rtx3050ti-16-1-144hz-fhd-gaming-notebook-p-377422376",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Vıctus 54s82ea 16-e0061nt Ryzen 7 5800h 16gb 512gb Ssd Rtx3050ti 16.1' 144hz Fhd Gaming Notebook",
+            "ProductPrice": "19.999 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "ACER",
+      "ProductLink": "https://www.trendyol.com/acer/a315-34-intel-celeron-4020-4gb-128gb-ssd-15-6-siyah-dizustu-bilgisayar-acer-turkiye-garantili-p-460771945",
+      "ProductInfos": [
+         {
+            "ProductDesc": "A315-34 Intel Celeron-4020 4GB 128GB SSD 15,6'' Siyah Dizüstü Bilgisayar (Acer Türkiye Garantili)",
+            "ProductPrice": "4.998,99 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Monster",
+      "ProductLink": "https://www.trendyol.com/monster/abra-a5-v19-1-intel-core-i5-12500h-8-gb-ram-500gb-ssd-4gb-gtx1650-freedos-15-6-fhd-144hz-p-343039114",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Abra A5 V19.1 Intel Core I5-12500h 8 Gb Ram 500gb Ssd 4gb Gtx1650 Freedos 15,6\" Fhd 144hz",
+            "ProductPrice": "16.599 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Game Garaj",
+      "ProductLink": "https://www.trendyol.com/game-garaj/slayer-7-3060-c2-i7-11800h-16gb-512gb-6gb-rtx3060-15-6-free-dos-p-140315474",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Slayer 7-3060 C2 I7-11800h 16gb 512gb 6gb Rtx3060 15.6\" Free Dos",
+            "ProductPrice": "25.568 TL"
+         }
+      ]
+   },
+   {
+      "ProductName": "Casper",
+      "ProductLink": "https://www.trendyol.com/casper/excalibur-intel-core-i7-11600h-16gb-500gb-ssd-rtx3050-4gb-15-6-fhd-dos-gaming-laptop-p-117829111",
+      "ProductInfos": [
+         {
+            "ProductDesc": "Excalibur Intel Core i7-11600H 16GB 500GB SSD RTX3050 4GB 15.6\" FHD DOS Gaming Laptop",
+            "ProductPrice": "19.998,99 TL"
+         }
+      ]
+   }
+]
